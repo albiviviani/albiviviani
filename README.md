@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alberto!
 
 ### 💼 About Me
-- 💻 **Data Scientist at HPA**  
+- 💻 **Data Scientist at Revo**  
 - 🎓 Master's degree in **Mathematical Engineering (LM)** from **Politecnico di Milano**  
 - 🏢 Based in **Verona, Italy**  
 - 🌱 Exploring **Data Science**, **Machine Learning**, **Generative AI** and **cloud-based data solutions**  
